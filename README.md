@@ -13,4 +13,3 @@ You can click the Preview link to take a look at your changes.
 Bellow are my program i have learned:
 
 
-csharp javascript go dotnet react docker heroku
